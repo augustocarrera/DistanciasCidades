@@ -24,7 +24,8 @@ Alterações:
 26/09 - Mudança realizada para que o usuario possa colocar o nome das cidades sem se precoupar com a identação de caixa alta - Henrique
         Relatório - Henrique
 
-Funçoes baseadas na lista de exercícios de implementação de matriz adjancente feitos anteriormente ao projeto
+24/11 - implementação do algoritmo de coloração sequencial e das checagens eulerianas - augusto, samy
+25/11 - implementação da solução do problema inicial (caminho minimo) e da checagem de grau do vertice = lorenzo e henrique
 
 ODS CONTRIBUIÇÕES = CONSUMO E PRODUÇÃO RESPONSAVEL, AÇÃO CONTRA A MUDANÇA GLOBAL DO CLIMA E TRANSPORTE RODOVIÁRIO DE PESSOAS E PRODUTOS
         Visto que se trata de um grafo de caminho mínimo de travessia rodoviária, tem como objetivo, além de poupar tempo, diminuir o índice de queima/consumo de combustivel em excesso, minimizando os danos causados ambientais causados por ele.
