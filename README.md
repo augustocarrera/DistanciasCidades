@@ -11,13 +11,13 @@ main.cpp - usado para acesso de menu e das funcionalidades dadas ao usuário
 grafo.txt - informações utilizados pelo codigo para montar a matriz de adjancencia e o grafo
 
 Alterações:
-23/09 - fazer menu e ler o arquivo txt - Lorenzo, Augusto, Henrique, Samy\n
-        pegar funções da lista de exercícios e altera-las para o projeto - Lorenzo, Augusto, Henrique, Samy\n
-        removerVertice - Lorenzo\n
-        adicionarVertice- Augusto\n
-        Mostar o conteudo do Arquivo (show) - Augusto\n
-        gravarArquivo - Lorenzo\n
-        Conectividade - Samy\n
+23/09 - fazer menu e ler o arquivo txt - Lorenzo, Augusto, Henrique, Samy
+        pegar funções da lista de exercícios e altera-las para o projeto - Lorenzo, Augusto, Henrique, Samy
+        removerVertice - Lorenzo
+        adicionarVertice- Augusto
+        Mostar o conteudo do Arquivo (show) - Augusto
+        gravarArquivo - Lorenzo
+        Conectividade - Samy
 24/09 - Array criado para o usuario dar input no nome da cidade, ao inves do indice - Lorenzo
         adicionarAresta - Lorenzo
         RemoverAresta - Augusto
